@@ -1,0 +1,15 @@
+co\edu\unbosque\tiendagenerica\Clientes.class
+co\edu\unbosque\tiendagenerica\ProveedoresJSON.class
+co\edu\unbosque\tiendagenerica\UsuariosServlet.class
+co\edu\unbosque\tiendagenerica\Productos.class
+co\edu\unbosque\tiendagenerica\ProveedoresServlet.class
+co\edu\unbosque\tiendagenerica\UsuariosJSON.class
+co\edu\unbosque\tiendagenerica\Usuarios.class
+co\edu\unbosque\tiendagenerica\ProcesarArchivoServlet.class
+co\edu\unbosque\tiendagenerica\VentasServlet.class
+co\edu\unbosque\tiendagenerica\ProductosJSON.class
+co\edu\unbosque\tiendagenerica\ClientesJSON.class
+co\edu\unbosque\tiendagenerica\Proveedores.class
+co\edu\unbosque\tiendagenerica\ClientesServlet.class
+co\edu\unbosque\tiendagenerica\LoginServlet.class
+co\edu\unbosque\tiendagenerica\ReportesServlet.class
